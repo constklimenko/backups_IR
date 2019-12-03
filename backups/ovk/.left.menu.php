@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Вентиляция", 
+		"/katalog/ventilyaciya/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Кондиционеры", 
+		"/katalog/kondition/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Отопление", 
+		"/katalog/otoplenie/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Холодильное оборудование", 
+		"/katalog/santehnika/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Туманообразование", 
+		"/katalog/tumanoobrazovanie/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Увлажнители, мойки воздуха", 
+		"/katalog/uvlazhniteli-mojki-vozduha/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Умный дом", 
+		"/katalog/umnyj-dom/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
